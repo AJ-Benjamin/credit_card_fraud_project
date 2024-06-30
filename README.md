@@ -1,0 +1,1 @@
+This project investigates credit card fraud's major features (feature importance). It shows that used_pin_number and online_order are major features to focus on when tackling credit card fraud. This can help backend developer build a more secure payment infrastructure for businesses and their customers.
